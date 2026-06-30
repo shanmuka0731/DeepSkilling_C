@@ -1,1 +1,5 @@
 CalculatorTest.class
+AssertionsTest.class
+VerifyInteractionTest.class
+AAATest.class
+MockitoTest.class
